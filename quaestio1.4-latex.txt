@@ -1,0 +1,150 @@
+\section{\guilsinglleft I.4 Utrum aliquis motus localis in istis inferioribus sit effective a celo\guilsinglright}
+
+\beginnumbering
+\pstart
+{\bf \guilsinglleft 1\guilsinglright} Queritur quarto utrum aliquis motus localis in istis inferioribus sit effective a celo. Quia in precedenti questione dictum est $\mid$\ledsidenote{{\emph{M} 20\textsuperscript{vb}}} quod celum agit in istis $\mid$\ledsidenote{{\emph{D} 60\textsuperscript{rb}}} inferioribus mediante motu, lumine et etiam influentia\footnote{I.3, secunda conclusio.}, ideo nunc queritur de motu. 
+\pend
+\pausenumbering
+
+\bigskip
+
+\begin{center}
+{\bf \guilsinglleft Rationes quod non\guilsinglright}
+\end{center}
+
+\resumenumbering
+
+\pstart
+{\bf \guilsinglleft 2\guilsinglright} Et arguitur quod non, quia intelligentia est appropriata {\edtext{orbi}{\Afootnote{ex duodecimo Metaphysice\emph{ add. C M}}}}, et non istis inferioribus; igitur solum movet orbem, et non ista inferiora.
+\pend
+\pstart
+{\bf \guilsinglleft 3\guilsinglright} Secundo: omnis motus inferior, si est naturalis {\edtext{et hoc inferior}{\Afootnote{\emph{ om. C M}}}}, est a forma vel inclinatione mobilis, et non a celo vel intelligentia; et si est violentus semper oportet ponere aliquid violentans. Etiam: celum nichil agit contra naturam. 
+\pend
+\pstart
+{\bf \guilsinglleft 4\guilsinglright} Tertio: de igne in spera, quia unius corporis simplicis est unus motus simplex, ut dicitur primo \emph{Celi}\footnote{\textsc{Aristoteles}, \emph{De caelo}, I, 2, 268 b 30-269 a 2.}; cum ergo ignis naturaliter habeat motum sursum, non habet alium motum nisi sit violentus; ergo {\edtext{non movetur circulariter a celo}{\Afootnote{habet talem violente motum a celo\emph{ D}}}}.
+\pend
+\pstart
+{\bf \guilsinglleft 5\guilsinglright} Quarto: talis motus non potest esse naturalis, quia habet {\edtext{alium}{\Afootnote{naturalem ut dictum est\emph{ add. C M}}}}; nec violentus, quia {\edtext{movetur a celo motu perpetuo}{\Afootnote{si movetur a celo hoc est perpetue ut patet primo huius\emph{ C M}}}}, et nullum violentum est perpetuum, ut dicitur primo \emph{Celi}\footnote{\textsc{Aristoteles}, \emph{De caelo}, II, 2, 286 a 17-18; cf. \emph{Auctoritates Aristotelis}, ed. \textsc{J. Hamesse}, p. 163, n. 50.}. 
+\pend
+\pstart
+{\bf \guilsinglleft 6\guilsinglright} Quinto: omne corpus naturale, quando est extra locum naturale, movetur illic, et dum pervenit, quiescit naturaliter; ergo cum locum sursum sit naturalis igni, ignis naturaliter {\edtext{habet}{\Afootnote{ibi\emph{ add. C M}}}} quiescere.
+% cf. ar, de celo, I, 2, 268 b 14-16.
+\pend
+\pstart
+{\bf \guilsinglleft 7\guilsinglright} Ultimo: sicut videmus de terra, que quiescit in loco suo, et alia elementa, ita a simili debet esse de igne; nec debet esse peioris conditionis, ut non dimittarur in pace in loco suo. 
+\pend
+
+\pausenumbering
+
+\bigskip
+
+\begin{center}
+{\bf \guilsinglleft In oppositum\guilsinglright}
+\end{center}
+
+\resumenumbering
+
+\pstart
+{\bf \guilsinglleft 8\guilsinglright} Oppositum patet ex precedenti questione, ubi dicitur quod celum agit per motum\footnote{I.3 \emph{Utrum omnis virtus inferior a superioribus, scilicet a supercelestibus, gubernetur}, secunda conclusio.}, et Aristoteles in textu, capitulo tertio\footnote{\textsc{Aristoteles}, \emph{Meteorologica}, I, 3, 341 a 28-31.}, probat quod ignis movetur circulariter in sua spera, et etiam superior pars aeris, usque ad superficies altissimorum montium.
+% PROBLEMA: NON TROVO LA CITAZIONE, QUESTA MI SEMBRA LA COSA PIÙ VICINA, MA MICA TANTO, guarda friburgo
+\pend
+\pausenumbering
+
+\bigskip
+
+\begin{center}
+{\bf \guilsinglleft Responsio\guilsinglright}
+\end{center}
+
+\resumenumbering
+\pstart
+{\bf \guilsinglleft 9\guilsinglright} De questione est sciendum quod multipliciter dicitur aliquid moveri a celo, seu ab intelligentia. Primo modo: immediate ab intelligentia; et sic movetur celum.
+\pend
+\pstart
+{\bf \guilsinglleft 10\guilsinglright} Secundo modo: hic inferius mediante alteratione, sicut calefactione per lumen; et sic dicimus quod Sol et stelle elevant vapores sursum, quod per alterationem disponunt ad motum sursum et ad levitatem. 
+\pend
+\pstart
+{\bf \guilsinglleft 11\guilsinglright} Tertio: dicitur movere localiter, sicut agens universale mediatum; et sic celum movet lapidem deorsum, quia concurrit, cum forma et gravitate, ad causandum talem motum. 
+\pend
+\pstart
+{\bf \guilsinglleft 12\guilsinglright} Quarto: sicut agens universale cum immediatum quodammodo; et sic dicimus quod natura universalis, aut celum, movet aquam sursum ne fiat vacuum, quando attrahit aer per calamum cuius extremitas est in aqua; et sic talis motus non diceretur violentus, sed naturalis a natura universali. 
+\pend
+\pstart
+{\bf \guilsinglleft 13\guilsinglright} Quinto: movet celum inferiora mediante solu motu locali; sic dicitur quod movet speram ignis, vel ignem in spera, quia propter nimiam velocitatem trahit secum ignem tali motu.
+\pend
+\bigskip
+\pstart
+{\bf \guilsinglleft 14\guilsinglright} Primo igitur videndum est si ibi sursum sit aliquis ignis. Et probat unus doctor quod {\edtext{non}{\Afootnote{et probat\emph{ add. D}}}}, quia ibi non apparet nec lucet, nec videtur necessitas ponendi {\edtext{talem}{\Afootnote{ignem vel\emph{ add. M}}}} speram magnam. Secundo: quia videmus quod omne elementum et corpus simplex ornatur aliquo vivente, sicut in terra sunt aliqua viventia, et etiam in aere et aqua. Et etiam secundum Platonem stelle {\edtext{sunt}{\Afootnote{\emph{ om. D}}}} in celo ex quibus ornatur, et sunt corpora animata\footnote{\textsc{Plato}, \emph{Timaeus}, 40b.}. Modo, in igne non sunt aliqua talia viventia. 
+\pend
+\pstart
+{\bf \guilsinglleft 15\guilsinglright} Pono tamen conclusionem oppositam, quod ibi est ignis {\edtext{in spera multo maiori}{\Afootnote{occupans plus de loco\emph{ C M}}}} quam {\edtext{sit}{\Afootnote{facit totus\emph{ C M}}}} aer. Patet ratione Aristotelis: quia si totum esset unum elementum, sicut aer, tunc elementa non essent debite proportionata, immo aer esset nimis magnus. Secundo: in secundo \emph{De generatione}\footnote{\textsc{Aristoteles}, \emph{De generatione et corruptione}, II, 3, 330 a 30-330 b 7.} probatum {\edtext{est}{\Afootnote{\emph{ om. D}}}} per combinationes qualitatum primarum que sunt sex combinationes, quarum quatuor sunt possibiles, quod sunt quatuor elementa. Et nos videmus quod alia, sicut terra, aqua, aer, habent regiones {\edtext{ordinatas}{\Afootnote{determinatas\emph{ M}}}}; igitur etiam ignis habebit unam regionem. Tertio patet a signo: quia flamma in qua dominatur ignis tendit sursum, et inde signum est quod ibi est regio propria ipsius ignis, sicut adamas tendit versus polum, {\edtext{et causa est quia ibi sunt minerie ubi sunt tales lapides}{\Afootnote{\emph{ om. C M}}}}. Quarto patet alio signo: quando exalationes elevantur valde sursum, tunc inflammantur sicut comete etc.; et ideo signum est quod appropinquat ad locum ipsius ignis et {\edtext{ad}{\Afootnote{\emph{ om. D}}}} calidam regionem.
+\pend
+\bigskip
+\pstart
+{\bf \guilsinglleft 16\guilsinglright} Ad rationes doctorum. Ad primam: dico quod ignis purus $\mid$\ledsidenote{{\emph{D} 60\textsuperscript{va}}} non lucet, sed flamma bene, que non est ignis, sed fumus ardens. Et ideo talis {\edtext{ignis}{\Afootnote{qui est sursusm\emph{ add. C M}}}} est purus, non turbidus, ut dicit auctor \emph{De spera}\footnote{\textsc{Johannes de Sacrobosco}, \emph{De sphaera}, I, p. 78: « Est enim terra tamquam circa aerem ignis est, illic \emph{purus et non turbidus}, orbem lune attingens [...] ».}, {\edtext{et}{\Afootnote{ \emph{ om. D}}}} invisibilis, tanto rarior aere quanto aer est rarior aqua et aqua terra. 
+\pend
+\pstart
+{\bf \guilsinglleft 17\guilsinglright} Ad aliam: diceretur quod non est necessarium quod ibi sint viventia, quia omne vivens nutritur in mixtis, unde purum elementum non nutrit, ut dicit Commentator, secundo \emph{De anima}
+% friburgo cerca (guarda prima de anima aristotele e cerca passo corrispondente)
+{\edtext{et naturales}{\Afootnote{\emph{ om. C M}}}}. Et ideo viventia sunt ubi sunt mixta, et ille ignis est valde purus, ut dictum est. Potest tamen dici quod ibi sunt viventia, scilicet quidam spiritus, vel demones, {\edtext{aut aliquid tale}{\Afootnote{sicut dicit Witelo in libro De natura demonum \emph{ add. C M}}}}.
+\pend
+\bigskip
+\pstart
+{\bf \guilsinglleft 17\guilsinglright} Tunc secundo videndum est si talis ignis moveatur circulariter. Et est prima distinctio: sicut visum est in una questione\footnote{I.2, \emph{Utrum iste mundus inferior sit contiguus ipsi celo}, art. primum.}: contigua sunt ita proxima sicut sunt continua; modo, talium $\mid$\ledsidenote{{\emph{M} 21\textsuperscript{ra}}} corporum quidam sunt perfetissime planata, sive polita vel levigata (sive sunt plana, sive sperica), sed alia sunt non perfecte polita, immo aspera. Tunc dico correlarie quod nullum asperum et politum possunt esse contigua per totum: patet statim, quia tunc esset vacuum inter illas asperitates, si non repleretur locus per asperitatem corporis coniuncti. Tertia distinctio: quod corpus contiguum alteri tripliciter potest moveri: uno modo versus sibi contiguum, illud pellendo, sicut homo expellit aerem ante se; secundo, recedendo, et per accidens attrahendo sibi contiguum, sicut homo dum movetur attrahit aerem qui est retro se; tertio, lateraliter distrahendo, sicut homo movet aerem collateralem. Et secundum hoc triplex est motus violentus a corpore contiguo, scilicet expulsio, attractio, detractio, et hoc sive moveatur circulariter sive recte.
+\pend
+\pstart
+{\bf \guilsinglleft 18\guilsinglright} Tunc pono conclusionem quod nullum corpus perfecte planum detrahit corpus sibi contiguum, licet possit expellere vel attrahere. Patet: quia omnis talis detractio fit per interpositionem partium asperarum invicem, sic quod unum intrat {\edtext{in}{\Afootnote{\emph{ om. D}}}} aliud secundum tales partes. Et ideo {\edtext{puto}{\Afootnote{\emph{ om. D}}}} quod si esset una rota perfectissime plana, que solum moveretur circulariter, {\edtext{ipsa}{\Afootnote{quod\emph{ D}}}} non moveret aerem circumstantem. 
+\pend
+\pstart
+{\bf \guilsinglleft 19\guilsinglright} Ex hoc sequitur correlarie quod in celo una spera non detrahit aliam, nec violentat, quamvis moveatur diversimode. Et hoc innuit Commentator, secundo \emph{Celi}, ubi dicit quod ibi non est motus raptus, nisi methaphorice et similitudinarie, quia rapere et detrahere est cum violentia, ut ipse dicit. 
+% friburgo cerca citazione
+\pend
+\pstart
+{\bf \guilsinglleft 20\guilsinglright} Secundum est quod nec etiam celum motu suo rapit aut detrahit ista inferiora, sicut est spera ignis. Patet: quia {\edtext{superficies concava orbis Lune}{\Afootnote{sicut superficies concava ipsius celi\emph{ C M}}}} est perfectissime {\edtext{polita}{\Afootnote{\emph{scrips.} polita \emph{correx. in marg.} sperica\emph{ D}}}} – patet secundo \emph{Celi}\footnote{\textsc{Aristoteles}, \emph{De caelo}, II, 10, 291 b 11-23.} –; igitur superficies convexa ignis sibi {\edtext{contigua}{\Afootnote{continua\emph{ D}}}} est perfecte plana, per primum correlarium; ergo non se invicem detrahunt, immo tunc ignis impediret motum celi. Nec obstat quod dicit Aristoteles, secundo \emph{Celi}, quod in istis inferioribus nichil est perfecte spericum, quia talis ignis non est spericus per naturam suam, ut dicitur tertio \emph{Celi}\footnote{\textsc{Aristoteles}, \emph{De caelo}, III, 8, 306 b 32-307 b 11.}, sed habet hanc figuram a continente.
+\pend
+\pstart
+{\bf \guilsinglleft 21\guilsinglright} Secunda conclusio: quod probabiliter potest dici quod ignis in sua spera non movetur. Patet ex {\edtext{dicto}{\Afootnote{quinto\emph{ D}}}} correlario: quia non trahitur nec rapitur a celo. Secundo: quia si hoc esset naturaliter, tunc fieret ab intelligentia, et tunc si adderetur aliquid, amplius non moveretur, ut patet secundo \emph{Celi}\footnote{\textsc{Aristoteles}, \emph{De caelo}, II, 12, 293 a 10-14.}. Tertio: non videtur quin resisteret cum inclineretur ad quietem, et tunc esset violente. Quarto: non obstat de cometis, que moventur, quia hoc non est ad motum ignis, sed per alterationem stellarum, et videtur difficile si movetur eodem modo sicut orbis {\edtext{Lune}{\Afootnote{et ita velociter\emph{ add. C M}}}} et secundum accessum vel recessum in zodiaco. 
+\pend
+\pstart
+{\bf \guilsinglleft 22\guilsinglright} Hoc non obstante est tertia conclusio quod movetur secundum {\edtext{Aristotelem}{\Afootnote{quod\emph{ M}}}}. Cuius signum $\mid$\ledsidenote{{\emph{C} 53\textsuperscript{vb}}} est quia comete moventur circulariter, que sunt in aere; et per consequens {\edtext{aer}{\Afootnote{superior\emph{ add. C M}}}} et ignis ita moventur. Etiam: videtur rationale quod, sicut patet in textu, spere superiores moventur velocius, et alie tardius; et motus Lune est magne velocitatis. Etiam: quod descendendo inferius sit aliquid quod moveatur tardius, sicut ignis, et $\mid$\ledsidenote{{\emph{D} 60\textsuperscript{vb}}} {\edtext{postea adhuc}{\Afootnote{aliquis\emph{ D}}}} tardius, sicut aer.
+% chiedi ju forse
+\pend
+\bigskip
+\pstart
+{\bf \guilsinglleft 23\guilsinglright} Ideo ad rationes alterius opponentis. Ad primam: concedo quod hoc non est motus tractus, sed per naturalem inclinationem impressam a celo in ipso igne.
+\pend
+\pstart
+{\bf \guilsinglleft 24\guilsinglright} Ad secundam: dico quod intelligentia non est adhuc appropriata sicut suo orbi, quia tunc ignis esset animatus sicut celum, ideo non movet immediate, sed per impressam inclinationem, ut dictum est, {\edtext{que}{\Afootnote{etc.\emph{ add. D}}}} imprimitur in cometa vel aliquod tale quando venit de novo.
+\pend
+\pstart
+{\bf \guilsinglleft 25\guilsinglright} Ad tertiam: dico quod non resistit, quia ista impressio est sibi naturalis, et ideo est quodammodo motus voluntarius ab intelligentia.
+\pend
+\pausenumbering
+
+
+\begin{center}
+{\bf \guilsinglleft Ad rationes\guilsinglright}
+\end{center}
+
+\resumenumbering
+\pstart
+{\bf \guilsinglleft 26\guilsinglright} Ad rationes in oppositum. Quedam sunt solute. Ad primam: concedo quod intelligentia applicata orbi tamen mediante orbe influit inferius et causat multos motus.
+\pend
+\pstart
+{\bf \guilsinglleft 27\guilsinglright} Ad secundam: dico quod aliqui motus tales sunt naturales, nec fiunt solum ab inclinatione mobilis, sed cum hoc ab agente universali, et aliquando sunt violenti respectu nature particularis, et non universalis, ideo simpliciter nichil est contra naturam.
+\pend
+\pstart
+{\bf \guilsinglleft 28\guilsinglright} Ad tertiam, de igne: concedo quod unius corporis simplicis est unus motus simplex per suam formam propriam, sicut per levitatem, sed potest habere alium ab agente universali per virtutem impressam.
+\pend
+\pstart
+{\bf \guilsinglleft 29\guilsinglright} Ad quartam: dico quod iste motus non est violentus, nec contra naturam particularem, sed preter eam, et non preter naturam universalem.
+\pend
+\pstart
+{\bf \guilsinglleft 30\guilsinglright} Ad quintam: dico concedendo quod omne corpus in loco naturali sic quiescit quod non movetur ab illo, sed tamen bene movetur in {\edtext{illo}{\Afootnote{sicut celum\emph{ add. C M}}}}.
+\pend
+\pstart
+{\bf \guilsinglleft 31\guilsinglright} Ad ultimam, de terra {\edtext{et aliis}{\Afootnote{\emph{ om. C M}}}}: dico quod non est simile, quia non sunt ita vicina {\edtext{nec ita propinqua}{\Afootnote{\emph{ om. C M}}}} ipsi celo, ideo non recipiunt talem impressionem. Et hoc est magis de perfectione ignis quam si non moveretur sic; immo quantum ad hoc est nobilior quam terra, et magis assimilatur suis propinquis. 
+\pend
+\pstart
+Et sic patet questio.
+\pend
