@@ -68,7 +68,7 @@ for line in lines:
                 counter -= 1
     n = re.search('{.*guilsinglleft(.*)guilsinglright}', line) #paragraph numbers
     if n:
-        newline = line.replace(n.group(0), '<pnr>%s</pnr>' % "".join(n.group(1).rstrip('\\').split()))
+        newline = line.replace(n.group(0), '<pnr>%s</pnr>' % n.group(1).rstrip('\\'))
         line = newline
     o = re.search('.emph{(.*)}.footnote{(.*)}', line)
     if o: # if there is something in italics with a footnote following (=Quellenangabe)
