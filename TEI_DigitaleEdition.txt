@@ -1,0 +1,83 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Questiones in Meteorologica</title>
+                <author>Nicolas Oresme</author>
+                <respStmt>
+                    <resp>Kritische Edition</resp>
+                    <name>Aurora Panzica</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Digitale Edition </resp>
+                    <name>Daria Kondakova, Aurora Panzica, Jelena Petrovic</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Daria Kondakova, Aurora Panzica, Jelena Petrovic</publisher>
+                <availability status="restricted">
+                    <p>This text is made available for teaching and illustration purposes only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="biographical" anchored="true">
+                 Diese Questiones wurden von Nikolaus Oresme im Rahmen seiner Lehrtätigkeit an der Universität Paris in 1346 geschrieben.
+                </note>
+                <note type="critical" anchored="true">
+                    Diese Digitale Edition wurde als Projekt im Rahmen des Seminars Einführung in digitale Daten und digitale Editionen hergestellt. 
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>Darmstadt, Universitäts- und Landesbibliothek (olim Hessische Landes- und Hochschulbibliothek), 2197, ff. 58r-92v; 125r-127v</p>
+<p>München, Bayerische Staatsbibliothek, Clm 4375, 19r-46r</p>
+<p>Kraków, Uniwersytet Jagielloński, Biblioteka Jagiellońska, 753, ff. 51r-83v</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding location="internal" method="parallel-segmentation"/>
+        </encodingDesc>
+        <revisionDesc>
+            <change>Initial encoding
+                <date>2016-12-20</date>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+  
+    <text>
+        <front>
+            <div>
+                <listWit>
+                    <witness xml:id="wit-2197">Darmstadt, Universitäts- und Landesbibliothek (olim Hessische Landes- und Hochschulbibliothek), 2197, ff. 58r-92v; 125r-127v
+</witness>
+                    <witness xml:id="wit-4375">München, Bayerische Staatsbibliothek, Clm 4375, 19r-46r
+</witness>
+	 <witness xml:id="wit-753">Kraków, Uniwersytet Jagielloński, Biblioteka Jagiellońska, 753, ff. 51r-83v
+</witness>
+                </listWit>
+            </div>
+        </front>
+        <body>
+           <p>
+Queritur quarto utrum aliquis motus localis in istis inferioribus sit effective a celo. Quia in precedenti questione dictum est quod celum agit in istis inferioribus mediante motu, lumine et etiam influentia, ideo nunc queritur de motu.
+</p>
+
+                <lb/>
+<p>
+Rationes quod non
+</p>
+<lb/>
+<p>
+Et arguitur quod non, quia intelligentia est appropriata 
+
+
+<app>
+<lem wit="#p2197">orbi</lem>
+<rdg wit="#p4375 #p753">add. ex duodecimo Metaphyisice</rdg>
+</app>
+, et non istis inferioribus; igitur solum movet orbem, et non ista inferiora.
+</p>
+                <lb/>
+      
+        </body>
+    </text>
+</TEI>
