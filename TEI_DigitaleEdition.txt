@@ -1,4 +1,5 @@
 ﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -47,18 +48,22 @@
         <front>
             <div>
                 <listWit>
-                    <witness xml:id="wit-2197">Darmstadt, Universitäts- und Landesbibliothek (olim Hessische Landes- und Hochschulbibliothek), 2197, ff. 58r-92v; 125r-127v
+                    <witness xml:id="wit-2197">Darmstadt, Universitäts- und Landesbibliothek (olim Hessische Landes- und Hochschulbibliothek), 2197, ff. 58r-92v; 125r-127v = D
 </witness>
-                    <witness xml:id="wit-4375">München, Bayerische Staatsbibliothek, Clm 4375, 19r-46r
+                    <witness xml:id="wit-4375">München, Bayerische Staatsbibliothek, Clm 4375, 19r-46r = M
 </witness>
-	 <witness xml:id="wit-753">Kraków, Uniwersytet Jagielloński, Biblioteka Jagiellońska, 753, ff. 51r-83v
+	 <witness xml:id="wit-753">Kraków, Uniwersytet Jagielloński, Biblioteka Jagiellońska, 753, ff. 51r-83v = C
 </witness>
                 </listWit>
             </div>
         </front>
         <body>
+<head rend="align(center) case(allcaps)">
+ <lb/>Nicolaus Oresme <lb/>Questiones in Meteorologica <lb/>of <lb/>redactio antiqua,
+<lb/>q. I.4 Utrum aliquis motus localis in istis inferioribus sit effective a celo<lb/>
+</head>
            <p>
-Queritur quarto utrum aliquis motus localis in istis inferioribus sit effective a celo. Quia in precedenti questione dictum est quod celum agit in istis inferioribus mediante motu, lumine et etiam influentia, ideo nunc queritur de motu.
+Queritur quarto utrum aliquis motus localis in istis inferioribus sit effective a celo. Quia in precedenti questione dictum est [M 20vb] quod celum agit in istis [D 60rb] inferioribus mediante motu, lumine et etiam influentia, ideo nunc queritur de motu.
 </p>
 
                 <lb/>
@@ -76,8 +81,69 @@ Et arguitur quod non, quia intelligentia est appropriata
 </app>
 , et non istis inferioribus; igitur solum movet orbem, et non ista inferiora.
 </p>
-                <lb/>
-      
+
+  <p>
+Secundo: omnis motus inferior, si est naturalis 
+
+<app>
+<lem wit="#p2197">et hic inferior</lem>
+<rdg wit="#p4375 #p753">om.</rdg>
+</app>
+, est a forma vel inclinatione mobilis, et non a celo vel intelligentia; et si est violentus semper oportet ponere aliquid violentans. Etiam: celum nichil agit contra naturam. 
+</p>
+  <lb/>  
+<p>
+Tertio: de igne in spera, quia unius corporis simplicis est unus motus simplex, ut dicitur primo Celi <note place="foot" >Aristoteles, De caelo, I, 2, 268 b 30-269 a 2.</note>
+; cum ergo ignis naturaliter habeat motum sursum, non habet alium motum nisi sit violentus; ergo 
+<app>
+<lem wit="#p2197">non movetur circulariter a celo</lem>
+<rdg wit="#p4375 #p753">habet talem violente motum a celo</rdg>
+</app>
+       
+</p>
+  <lb/>
+<p>
+     Quarto: talis motus non potest esse naturalis, quia habet 
+<app>
+<lem wit="#p2197">alium</lem>
+<rdg wit="#p4375 #p753">add. naturaliter ut dictum est</rdg>
+</app>
+; nec violentus, quia 
+
+<app>
+<lem wit="#p2197">movetur a celo motu perpetuo</lem>
+<rdg wit="#p4375 #p753">si movetur a celo hoc est perpetue ut patet primo huius</rdg>
+</app>
+
+, et nullum violentum est perpetuum, ut dicitur primo 
+ <note place="foot" >Aristoteles, De caelo, II, 2, 286 a 17-18; cf. Auctoritates Aristotelis, ed. J. Hamesse, p. 163, n. 50.</note>
+
+</p>
+<p>
+Quinto: omne corpus naturale, quando est extra locum naturale, movetur illic, et dum pervenit, quiescit naturaliter; ergo cum locum sursum sit naturalis igni, ignis naturaliter habet quiescere.
+</p>
+<p>
+Ultimo: sicut videmus de terra, que quiescit in loco suo, et alia elementa, ita a simili debet esse de igne; nec debet esse peioris conditionis, ut non dimittarur in pace in loco suo.
+</p>
+<p>
+In oppositum
+</p>
+<p>
+Oppositum patet ex precedenti questione, ubi dicitur quod celum agit per motum
+<note place="foot" >I.3 Utrum omnis virtus inferior a superioribus, scilicet a supercelestibus, gubernetur, secunda conclusio.</note>
+, et Aristoteles in textu, capitulo tertio
+<note place="foot" >Aristoteles, Meteorologica, I, 3, 341 b 15-25.</note>
+, probat quod ignis movetur circulariter in sua spera, et etiam superior pars aeris, usque ad superficies altissimorum montium.
+</p>
+<p>
+Responsio
+</p>
+<p>
+De questione est sciendum quod multipliciter dicitur aliquid moveri a celo, seu ab intelligentia. Primo modo: immediate ab intelligentia; et sic movetur celum.
+</p>
+<p>
+Secundo modo: hic inferius mediante alteratione, sicut calefactione per lumen; et sic dicimus quod Sol et stelle elevant vapores sursum, quod per alterationem disponunt ad motum sursum et ad levitatem. 
+</p>
         </body>
     </text>
 </TEI>
