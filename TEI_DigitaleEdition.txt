@@ -63,7 +63,7 @@
 <lb/>q. I.4 Utrum aliquis motus localis in istis inferioribus sit effective a celo<lb/>
 </head>
            <p>
-Queritur quarto utrum aliquis motus localis in istis inferioribus sit effective a celo. Quia in precedenti questione dictum est [M 20vb] quod celum agit in istis [D 60rb] inferioribus mediante motu, lumine et etiam influentia, ideo nunc queritur de motu.
+Queritur quarto utrum aliquis motus localis in istis inferioribus sit effective a celo. Quia in precedenti questione dictum est <pb facs="images/M/20vb.jpg"/> quod celum agit in istis <pb facs="images/D/60rb.jpg"/> inferioribus mediante motu, lumine et etiam influentia, ideo nunc queritur de motu.
 </p>
 
                 <lb/>
