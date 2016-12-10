@@ -16,6 +16,9 @@
          variables, and parameters from teibp.xsl 
          to be overridden here. -->
     <xsl:import href="teibp.xsl"/>
-    
+
+    <xsl:template match="tei:witness">
+        <h2 align="center" color="red"><xsl:apply-templates/> </h2>
+    </xsl:template>
 
 </xsl:stylesheet>

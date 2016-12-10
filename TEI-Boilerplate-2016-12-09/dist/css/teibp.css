@@ -1,6 +1,6 @@
 /* imports */
 /* @import url("shell.css"); */
-@import url('http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic|Gentium+Book+Basic:400,400italic,700,700italic');
+@import url('https://fonts.googleapis.com/css?family=Cuprum');
 /* namespaces */
 /* @namespace "http://www.tei-c.org/ns/1.0"; */
 /* @namespace with prefix, as below, throws and error in less. */
@@ -226,7 +226,15 @@ anchor {
   /* Empty Rule Set */
 }
 app {
-  display: block;
+  display: run-in;
+}
+
+app > lem {
+  color: olive;
+}
+
+app > rdg {
+  color: gray;
 }
 appInfo {
   display: block;
@@ -266,7 +274,7 @@ author {
 }
 titleStmt > author {
   display: block;
-  font-family: Arvo, sans-serif;
+  font-family: 'Cuprum', sans-serif;
   font-weight: normal;
   margin-bottom: 1em;
 }
@@ -676,13 +684,15 @@ handShift {
 /* Need head with TEI parent to distinguish from HTML head */
 TEI head {
   display: block;
-  font-family: Arvo, sans-serif;
+  font-family: 'Cuprum', sans-serif;
   font-weight: normal;
 }
 body > head {
-  font-size: 180%;
-  text-indent: -0.5em;
+  font-size: 150%;
+  text-align: center;
 }
+
+
 div > head {
   font-size: 170%;
   text-indent: -0.5em;
@@ -1058,24 +1068,12 @@ node {
 normalization {
   /* Empty Rule Set */
 }
-note {
-  display: block;
-  margin: 1.5em auto 1.5em auto;
-  padding: .5em 1.5em 1.5em 1.5em;
-  border: 1px solid black;
-  border-radius: 15px;
-  width: 325px;
-  position: relative;
-  border: 1px solid #AAA;
-  background: #FAFAFA;
-  /* reset text-indent for note with <l> ancestors. */
-  text-indent: 0;
-  font-size: 85%;
-  text-align: justify;
-  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+
+
+a.hover {
+  visibility: visible;
 }
+
 notesStmt {
   /* do we want to box each individual <note> if they're in a <notesStmt>? */
   display: none;
@@ -1136,8 +1134,6 @@ origin {
 /* p */
 p {
   display: block;
-  margin-top: 1em;
-  margin-bottom: 1em;
   text-align: justify;
 }
 *[rendition~="#center"] p {
@@ -1265,9 +1261,8 @@ ptr {
 pubPlace {
   /* Empty Rule Set */
 }
-publicationStmt > * {
-  display: none;
-}
+
+
 publicationStmt {
   display: block;
   margin-top: 1em;
@@ -1279,6 +1274,11 @@ publicationStmt > date {
 publicationStmt > publisher {
   display: none;
 }
+
+publicationStmt > availability {
+  display: block;
+}
+
 purpose {
   /* Empty Rule Set */
 }
@@ -1339,9 +1339,31 @@ recording {
 recordingStmt {
   /* Empty Rule Set */
 }
+
 ref {
-  /*include link if target */
+  color: red;
 }
+
+ref:hover + note {
+  visibility: visible;
+}
+
+note {
+  visibility: hidden;
+  margin: 1.5em auto 1.5em auto;
+  padding: .5em .5em .5em .5em;
+  border-radius: 5px;
+  width: auto;
+  position: absolute;
+  border: 1px solid #AAA;
+  background: #FAFAFA;
+  /* reset text-indent for note with <l> ancestors. */
+  text-indent: 0;
+  font-size: 85%;
+  text-align: justify;
+
+}
+
 region {
   /* Empty Rule Set */
 }
@@ -1378,6 +1400,11 @@ respStmt {
   margin-top: 0;
   margin-bottom: 0;
 }
+respStmt > resp {
+  font-weight: bold;
+}
+
+
 /* hide */
 restore {
   /* footnote or sidenote perhaps*/
@@ -1538,6 +1565,7 @@ source {
 sourceDesc {
   display: none;
 }
+
 sp {
   /*empty rule set*/
 }
@@ -1620,6 +1648,14 @@ subc {
 subst {
   /* Empty Set Rule */
 }
+subtitle {
+  display: block;
+  font-size: 85%;
+  font-style: italic;
+  margin: 1em auto 1em auto;
+  text-align: left;
+}
+
 summary {
   /* Empty Set Rule */
 }
@@ -1683,13 +1719,7 @@ background:white;
   border-bottom: 1px solid #999;
 }
 TEI > text {
-  display: block;
-  /*
-border-radius: 15px;
-border: 1px solid black;
-background:white;
-*/
-  line-height: 1.5;
+  border: 1px solid black;
 }
 textClass {
   display: none;
@@ -1724,7 +1754,7 @@ title[level=m] {
 /* as a hack to solve a JavaScript/jQuery issue. */
 titleStmt > tei-title {
   display: block;
-  font-family: Arvo, sans-serif;
+  font-family: 'Cuprum', sans-serif;
   font-weight: normal;
   font-weight: bold !important;
   font-size: 150%;
@@ -1838,11 +1868,11 @@ html {
   margin-left: 2em;
   margin-right: 4em;
   padding: 2.5em;
-  font-family: "Gentium Book Basic", Cochin, Georgia, Serif;
+  font-family: "Cuprum", sans-serif;
   font-size: 14pt;
-  background-color: #EBEBEB;
+  background-color: #DCE1F2;
   color: #292929;
-  width: 33em;
+  /* width: 33em; */
 }
 img {
   border: 1px solid #AAA;
@@ -1873,11 +1903,8 @@ a:hover {
   border-radius: 15px;
   border: 1px solid #AAA;
   background: #FAFAFA;
-  font-family: Arvo, Verdana, sans-serif;
+  font-family: 'Cuprum', Verdana, sans-serif;
   text-align: justify;
-  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   width: 12em;
 }
 #teibpToolbox h1 {
@@ -1938,6 +1965,6 @@ div.facsImage img:first-child {
   margin-top: 0;
 }
 .head-font {
-  font-family: Arvo, sans-serif;
+  font-family: 'Cuprum', sans-serif;
   font-weight: normal;
 }

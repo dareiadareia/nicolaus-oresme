@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xsl:stylesheet version="1.0"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
   xmlns:eg="http://www.tei-c.org/ns/Examples"
@@ -26,7 +27,7 @@
 	
 	<xsl:param name="teibpHome" select="'http://dcl.slis.indiana.edu/teibp/'"/>
 	<xsl:param name="inlineCSS" select="true()"/>
-	<xsl:param name="includeToolbox" select="true()"/>
+	<xsl:param name="includeToolbox" select="false()"/>
 	<xsl:param name="includeAnalytics" select="true()"/>
 	<xsl:param name="displayPageBreaks" select="true()"/>
 	
@@ -153,7 +154,9 @@
 		</xsl:if>
 	</xsl:template>
 	
-	
+	<xsl:template match="tei:witness">
+        <p align="left"><xsl:apply-templates/> </p>
+    </xsl:template>
 
 	<xsl:template match="@xml:id">
 		<!-- @xml:id is copied to @id, which browsers can use
@@ -395,17 +398,11 @@
 			<h1>Toolbox</h1>
 			<label for="pbToggle">Hide page breaks</label>
 			<input type="checkbox" id="pbToggle" /> 
-			<div>
-				<h3>Themes:</h3>
-
-				<select id="themeBox" onchange="switchThemes(this);">
-					<option value="{$theme.default}" >Default</option>
-					<option value="{$theme.sleepytime}">Sleepy Time</option>
-					<option value="{$theme.terminal}">Terminal</option>
-				</select>			</div>
 		</div>
 	</xsl:template>
 	
+
+
 	<xsl:template name="analytics">
 		<script type="text/javascript">
 		  var _gaq = _gaq || [];
@@ -540,5 +537,5 @@
         </xsl:copy>
     </xsl:template>
 
-	
+
 </xsl:stylesheet>
