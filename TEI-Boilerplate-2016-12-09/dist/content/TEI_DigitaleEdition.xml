@@ -49,7 +49,8 @@
   
     <text>
         <front>
-            <div>
+            <div class="ms-descr">
+                <h3>Manuscripts:</h3>
                 <listWit>
                     <witness xml:id="wit-2197">Darmstadt, Universitäts- und Landesbibliothek (olim Hessische Landes- und Hochschulbibliothek), 2197, ff. 58r-92v; 125r-127v = D</witness>
                     <witness xml:id="wit-4375">München, Bayerische Staatsbibliothek, Clm 4375, 19r-46r = M</witness>
@@ -65,9 +66,9 @@
 			</head>    
 <p>Queritur quarto utrum aliquis motus localis in istis inferioribus sit effective a celo. Quia in precedenti questione dictum est [M 20vb] quod celum agit in istis [D 60rb] inferioribus mediante motu, lumine et etiam influentia, ideo nunc queritur de motu.</p>
 <lb/>
-<p>
+<chapter>
 Rationes quod non
-</p>
+</chapter>
 <p>
 Et arguitur quod non, quia intelligentia est appropriata 
 <app><lem wit="#p2197">orbi</lem>
@@ -108,15 +109,14 @@ Quinto: omne corpus naturale, quando est extra locum naturale, movetur illic, et
 <p>
 Ultimo: sicut videmus de terra, que quiescit in loco suo, et alia elementa, ita a simili debet esse de igne; nec debet esse peioris conditionis, ut non dimittarur in pace in loco suo.
 </p>
-<p>
-In oppositum
-</p>
+<chapter>
+In oppositum</chapter>
 <p>
 Oppositum patet ex <ref>precedenti questione, ubi dicitur quod celum agit per motum</ref><note>I.3 Utrum omnis virtus inferior a superioribus, scilicet a supercelestibus, gubernetur, secunda conclusio.</note>, et <ref>Aristoteles in textu, capitulo tertio</ref><note>Aristoteles, Meteorologica, I, 3, 341 b 15-25.</note>, probat quod ignis movetur circulariter in sua spera, et etiam superior pars aeris, usque ad superficies altissimorum montium.
 </p>
-<p>
+<chapter>
 Responsio
-</p>
+</chapter>
 <p>
 De questione est sciendum quod multipliciter dicitur aliquid moveri a celo, seu ab intelligentia. Primo modo: immediate ab intelligentia; et sic movetur celum.
 </p>

@@ -432,6 +432,12 @@ change {
 channel {
   /* Empty Rule Set */
 }
+chapter {
+  display: block;
+  font-weight: bold;
+  text-indent: 2em;
+}
+
 charDecl {
   display: none;
 }
@@ -690,6 +696,7 @@ TEI head {
 body > head {
   font-size: 150%;
   text-align: center;
+  margin-top: 1em;
 }
 
 
@@ -1651,9 +1658,9 @@ subst {
 subtitle {
   display: block;
   font-size: 85%;
-  font-style: italic;
   margin: 1em auto 1em auto;
-  text-align: left;
+  text-align: center;
+  text-decoration: underline;
 }
 
 summary {
@@ -1719,7 +1726,6 @@ background:white;
   border-bottom: 1px solid #999;
 }
 TEI > text {
-  border: 1px solid black;
 }
 textClass {
   display: none;
@@ -1843,8 +1849,9 @@ witEnd {
 witStart {
   /* Empty Rule Set */
 }
-witness {
-  /* Empty Rule Set */
+listWit > witness {
+  display: block;
+  text-indent: 1em;
 }
 writing {
   /* Empty Rule Set */
@@ -1967,4 +1974,9 @@ div.facsImage img:first-child {
 .head-font {
   font-family: 'Cuprum', sans-serif;
   font-weight: normal;
+}
+.ms-descr {
+  background-color: lightgray;
+  text-indent: 1em;
+  padding: 1em;
 }
