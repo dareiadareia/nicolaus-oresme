@@ -397,7 +397,11 @@
 		<div id="teibpToolbox">
 			<h1>Toolbox</h1>
 			<label for="pbToggle">Hide page breaks</label>
-			<input type="checkbox" id="pbToggle" /> 
+			<input type="checkbox" id="pbToggle" />
+			<hr/>
+			<input type="radio" name="appChoice" value="lem" checked="true"/><label>Lemma</label><br />
+			<input type="radio" name="appChoice" value="#p753" /><label>P-753</label><br />
+			<input type="radio" name="appChoice" value="#p4375" /><label>P-4375</label><br />
 		</div>
 	</xsl:template>
 	
