@@ -4,8 +4,8 @@ function clearPageBreaks() {
 }
 
 function addPageBreaks() {
-    for (var e = document.querySelectorAll("pb"), t = 0; t < e.length; t++) e[t].style.display = "block";
-    for (var e = document.querySelectorAll(".-teibp-pb"), t = 0; t < e.length; t++) e[t].style.display = "block"
+    for (var e = document.querySelectorAll("pb"), t = 0; t < e.length; t++) e[t].style.display = "inline";
+    for (var e = document.querySelectorAll(".-teibp-pb"), t = 0; t < e.length; t++) e[t].style.display = "inline"
 }
 
 function init() {
