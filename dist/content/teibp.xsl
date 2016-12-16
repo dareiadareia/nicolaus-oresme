@@ -397,9 +397,13 @@
 		<div id="teibpToolbox">
 			<h1>Toolbox</h1>
 			<label for="pbToggle">Hide page breaks</label>
-			<input type="checkbox" id="pbToggle" />
-			<label for="MSToggle">Choose a manuscript to show the readings</label>
-			<input type="RADIO" id="MSToggle"/>
+			<input type="checkbox" id="pbToggle" /><lb/>
+			<label for="MSToggle">Choose a manuscript to show the readings</label><lb/>
+			<form id="MSToggle">
+				<input type="radio" name="ms" value="D"/>
+				<input type="radio" name="ms" value="M"/>
+				<input type="radio" name="ms" value="C"/>
+			</form>
 		</div>
 	</xsl:template>
 	
