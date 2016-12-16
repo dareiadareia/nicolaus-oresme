@@ -1,6 +1,6 @@
 /* imports */
 /* @import url("shell.css"); */
-@import url('https://fonts.googleapis.com/css?family=Cuprum');
+//@import url('https://fonts.googleapis.com/css?family=Cuprum');
 /* namespaces */
 /* @namespace "http://www.tei-c.org/ns/1.0"; */
 /* @namespace with prefix, as below, throws and error in less. */
@@ -235,6 +235,7 @@ app > lem {
 
 app > rdg {
   color: gray;
+  display: none;
 }
 appInfo {
   display: block;

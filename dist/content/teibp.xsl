@@ -397,13 +397,11 @@
 		<div id="teibpToolbox">
 			<h1>Toolbox</h1>
 			<label for="pbToggle">Hide page breaks</label>
-			<input type="checkbox" id="pbToggle" /><lb/>
-			<label for="MSToggle">Choose a manuscript to show the readings</label><lb/>
-			<form id="MSToggle">
-				<input type="radio" name="ms" value="D"/>
-				<input type="radio" name="ms" value="M"/>
-				<input type="radio" name="ms" value="C"/>
-			</form>
+			<input type="checkbox" id="pbToggle" />
+			<hr/>
+			<input type="radio" name="appChoice" value="lem" checked="true"/><label>Lemma</label><br />
+			<input type="radio" name="appChoice" value="#p753" /><label>P-753</label><br />
+			<input type="radio" name="appChoice" value="#p4375" /><label>P-4375</label><br /
 		</div>
 	</xsl:template>
 	
