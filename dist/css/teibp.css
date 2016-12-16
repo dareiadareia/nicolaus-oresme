@@ -1408,9 +1408,14 @@ respStmt {
   margin-bottom: 0;
 }
 respStmt > resp {
+  display: block;
   font-weight: bold;
 }
 
+
+respStmt > name {
+  display: block;
+}
 
 /* hide */
 restore {
