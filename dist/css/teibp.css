@@ -1167,20 +1167,20 @@ pause {
   /* Empty Rule Set*/
 }
 pb {
-  display: block;
+  display: inline;
   width: 100%;
   text-align: right;
   color: gray;
-  margin: 2em 0 2em 0;
-  font-size: 11pt;
+  margin: 1em 0 1em 0;
+  font-size: 10pt;
 }
 .pb {
-  display: block;
+  display: inline;
   width: 100%;
   text-align: right;
   color: gray;
-  margin: 2em 0 2em 0;
-  font-size: 11pt;
+  margin: 1em 0 1em 0;
+  font-size: 10pt;
 }
 pb:before {
   content: "page:\a0" attr(n);
