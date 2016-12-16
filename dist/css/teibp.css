@@ -271,8 +271,10 @@ attRef {
   /* Empty Rule Set */
 }
 author {
-  /* Empty Rule Set */
+  display: block;
+  font-size: 120%;
 }
+
 titleStmt > author {
   display: block;
   font-family: 'Cuprum', sans-serif;
@@ -1088,7 +1090,9 @@ a.hover {
 
 notesStmt {
   /* do we want to box each individual <note> if they're in a <notesStmt>? */
-  display: none;
+  display: block;
+  font-style: italic;
+  font-size: 10pt;
 }
 num {
   /* Empty Rule Set */
@@ -1746,7 +1750,7 @@ textDesc {
 /* title */
 /* Need TEI ancestor to distinguish TEI title from HTML title */
 TEI title {
-  display: inline;
+  display: block;
 }
 TEI title[level=a] {
   quotes: "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d";
@@ -1860,9 +1864,16 @@ witStart {
   /* Empty Rule Set */
 }
 
+listWit:before {
+  display: block;
+  font-weight: bold;
+  content: "Handschriften: ";
+}
+
 listWit {
   display: block;
   background-color: #FFFFCC;
+  padding: 1em;
 }
 
 listWit > witness {
