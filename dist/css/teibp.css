@@ -1855,9 +1855,15 @@ witEnd {
 witStart {
   /* Empty Rule Set */
 }
-listWit > witness {
+
+listWit {
   display: block;
+  background-color: yellow;
+}
+
+listWit > witness {
   text-indent: 1em;
+  font-weight: italic;
 }
 writing {
   /* Empty Rule Set */
