@@ -37,7 +37,7 @@
 	
 	<!-- interface text -->
 	<xsl:param name="pbNote"><text>page: </text></xsl:param>
-	<xsl:param name="altTextPbFacs"><text>view page image(s)</text></xsl:param>
+	<xsl:param name="altTextPbFacs"><text>view page image</text></xsl:param>
 	
 	<!-- parameters for file paths or URLs -->
 	<!-- modify filePrefix to point to files on your own server, 
