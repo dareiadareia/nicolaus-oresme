@@ -458,7 +458,6 @@
 					</img>
 				</a>
 			</span>
-
 	</xsl:template>
 	
 	<xsl:template match="tei:pb[@facs]">

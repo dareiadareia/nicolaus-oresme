@@ -1151,6 +1151,7 @@ origin {
 p {
   display: block;
   text-align: justify;
+  margin: 0.1;
 }
 *[rendition~="#center"] p {
   text-align: center;
@@ -1597,6 +1598,7 @@ space:before {
 TEI span {
   /* jawalsh: why were we hiding this? */
   /* .hide; */
+  display: inline;
 }
 TEI egXML span {
   display: inline;
@@ -1873,12 +1875,12 @@ listWit:before {
 listWit {
   display: block;
   background-color: #FFFFCC;
-  padding: 1em;
+  padding: 1em 3em 1em 1em;
 }
 
 listWit > witness {
   text-indent: 1em;
-  font-weight: italic;
+  font-style: italic;
 }
 writing {
   /* Empty Rule Set */
