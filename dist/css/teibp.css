@@ -700,6 +700,10 @@ body > head {
   margin-top: 1em;
 }
 
+div.chapter {
+  text-indent: 2em;
+  font-weight: bold;
+} 
 
 div > head {
   font-size: 170%;

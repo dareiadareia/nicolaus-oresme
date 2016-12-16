@@ -63,7 +63,7 @@
 <p>
 Queritur quarto utrum aliquis motus localis in istis inferioribus sit effective a celo. Quia in precedenti questione dictum est <pb facs="images/20vb.jpg"/> quod celum agit in istis <pb facs="images/60rb.jpg"/> inferioribus mediante motu, lumine et etiam influentia, ideo nunc queritur de motu.
 </p>
-<div type="chapter">
+<div class="chapter">
 Rationes quod non
 </div>
 <p>
@@ -84,15 +84,15 @@ Quinto: omne corpus naturale, quando est extra locum naturale, movetur illic, et
 <p>
 Ultimo: sicut videmus de terra, que quiescit in loco suo, et alia elementa, ita a simili debet esse de igne; nec debet esse peioris conditionis, ut non dimittarur in pace in loco suo.
 </p>
-<div type="chapter">
+<div class="chapter">
 In oppositum
 </div>
 <p>
 Oppositum patet ex <ref>precedenti questione</ref>, ubi dicitur quod celum agit per motum<note>I.3 Utrum omnis virtus inferior a superioribus, scilicet a supercelestibus, gubernetur, secunda conclusio.</note>, et <ref>Aristoteles in textu, capitulo tertio</ref><note>Aristoteles, Meteorologica, I, 3, 341 b 15-25.</note>, probat quod ignis movetur circulariter in sua spera, et etiam superior pars aeris, usque ad superficies altissimorum montium.
 </p>
-<p>
+<div class="chapter">
 Responsio
-</p>
+</div>
 <p>
 De questione est sciendum quod multipliciter dicitur aliquid moveri a celo, seu ab intelligentia. Primo modo: immediate ab intelligentia; et sic movetur celum.
 </p>
@@ -151,9 +151,9 @@ Ad secundam: dico quod intelligentia non est adhuc appropriata sicut suo orbi, q
 <p>
 Ad tertiam: dico quod non resistit, quia ista impressio est sibi naturalis, et ideo est quodammodo motus voluntarius ab intelligentia.
 </p>
-<p>
+<div class="chapter">
 Ad rationes
-</p>
+</div>
 <p>
 Ad rationes in oppositum. Quedam sunt solute. Ad primam: concedo quod intelligentia applicata orbi tamen mediante orbe influit inferius et causat multos motus.
 </p>
