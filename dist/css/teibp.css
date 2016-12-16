@@ -1873,13 +1873,12 @@ listWit:before {
 listWit {
   display: block;
   background-color: #FFFFCC;
-  padding: 1em;
+  padding: .5em;
 }
 
 listWit > witness {
   text-indent: 1em;
-  font-style: italic;
-  margin: 0 4em 0 0;
+  font-size: 10pt; 
 }
 writing {
   /* Empty Rule Set */
