@@ -6,12 +6,11 @@
                 <title>Questiones in Meteorologica</title>
                 <author>Nicolas Oresme</author>
                 <respStmt>
-                    <resp>Kritische Edition</resp><lb/>
+                    <resp>Kritische Edition</resp>
                     <name>Aurora Panzica</name>
                 </respStmt>
-                <lb/>
                 <respStmt>
-                    <resp>Digitale Edition </resp><lb/>
+                    <resp>Digitale Edition </resp>
                     <name>Daria Kondakova, Aurora Panzica, Jelena Petrovic</name>
                 </respStmt>
             </titleStmt>
@@ -26,15 +25,11 @@
                  Diese Questiones wurden von Nikolaus Oresme im Rahmen seiner Lehrtätigkeit an der Universität Paris in 1346 geschrieben.
                 </note>
                 <note type="critical" anchored="true">
-                    Diese Digitale Edition wurde als Projekt im Rahmen des Seminars Einführung in digitale Daten und digitale Editionen hergestellt. 
+                    Diese Digitale Edition wurde als Projekt im Rahmen des Seminars Einführung in digitale Daten und digitale Editionen (Universität Bern, HS 2016) hergestellt. 
                 </note>
             </notesStmt>
             <sourceDesc>
-                <ul>
-                	<li>Darmstadt, Universitäts- und Landesbibliothek (olim Hessische Landes- und Hochschulbibliothek), 2197, ff. 58r-92v; 125r-127v</li>
-					<li>München, Bayerische Staatsbibliothek, Clm 4375, 19r-46r</li>
-					<li>Kraków, Uniwersytet Jagielloński, Biblioteka Jagiellońska, 753, ff. 51r-83v</li>
-				</ul>
+                	<p>Die Edition ist basiert auf drei Handschriften: 1) Darmstadt, Universitäts- und Landesbibliothek (olim Hessische Landes- und Hochschulbibliothek), 2197, ff. 58r-92v und 125r-127v; 2) München, Bayerische Staatsbibliothek, Clm 4375, 19r-46r; 3) Kraków, Uniwersytet Jagielloński, Biblioteka Jagiellońska, 753, ff. 51r-83v</p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -60,15 +55,14 @@
         </front>
 		<body>
 			<head>
- 				<author>Nicolaus Oresme</author><lb/> 
-                <title>Questiones in Meteorologica</title> <i>of redactio antiqua</i><lb/>
+ 				<author>Nicolaus Oresme</author>
+                <title>Questiones in Meteorologica</title> <i>of redactio antiqua</i>
                 <subtitle>q. I.4 Utrum aliquis motus localis in istis inferioribus sit effective a celo</subtitle>
 			</head>    
-<p>Queritur quarto utrum aliquis motus localis in istis inferioribus sit effective a celo. Quia in precedenti questione dictum est <pb facs="\dist\images\20v.tif"/> quod celum agit in istis <pb facs="C:\Users\Dareia\Documents\GitHub\nicolaus-oresme\TEI-Boilerplate-2016-12-09\dist\images\60r.png"/> inferioribus mediante motu, lumine et etiam influentia, ideo nunc queritur de motu.</p>
-<lb/>
-<chapter>
+<p>Queritur quarto utrum aliquis motus localis in istis inferioribus sit effective a celo. Quia in precedenti questione dictum est <pb facs="\dist\images\20v.tif"/> quod celum agit in istis <pb facs="dist\images\60r.png"/> inferioribus mediante motu, lumine et etiam influentia, ideo nunc queritur de motu.</p>
+<div type="chapter">
 Rationes quod non
-</chapter>
+</div>
 <p>
 Et arguitur quod non, quia intelligentia est appropriata 
 <app><lem wit="#p2197">orbi</lem>
@@ -97,16 +91,16 @@ Quinto: omne corpus naturale, quando est extra locum naturale, movetur illic, et
 Ultimo: sicut videmus de terra, que quiescit in loco suo, et alia elementa, ita a simili debet esse de igne; nec debet esse peioris conditionis, ut non dimittarur in pace in loco suo.
 </p>
 
-<chapter>
-In oppositum</chapter>
+<div type="chapter">
+In oppositum</div>
 
 <p>
 Oppositum patet ex <ref>precedenti questione, ubi dicitur quod celum agit per motum</ref><note>I.3 Utrum omnis virtus inferior a superioribus, scilicet a supercelestibus, gubernetur, secunda conclusio.</note>, et <ref>Aristoteles in textu, capitulo tertio</ref><note>Aristoteles, Meteorologica, I, 3, 341 b 15-25.</note>, probat quod ignis movetur circulariter in sua spera, et etiam superior pars aeris, usque ad superficies altissimorum montium.
 </p>
 
-<chapter>
+<div type="chapter">
 Responsio
-</chapter>
+</div>
 
 <p>
 De questione est sciendum quod multipliciter dicitur aliquid moveri a celo, seu ab intelligentia. Primo modo: immediate ab intelligentia; et sic movetur celum.
