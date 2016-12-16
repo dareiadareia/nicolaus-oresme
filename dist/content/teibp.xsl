@@ -440,13 +440,13 @@
 	        </xsl:choose>
 	    </xsl:variable>
 		
-		<span class="-teibp-pageNum" style="display:inline">
+		<span class="-teibp-pageNum">
 			<!-- <xsl:call-template name="atts"/> -->
 			<span class="-teibp-pbNote"><xsl:value-of select="$pbNote"/></span>
 			<xsl:value-of select="@n"/>
 			<xsl:text> </xsl:text>
 		</span>
-			<span class="-teibp-pbFacs" style="display:inline">
+			<span class="-teibp-pbFacs">
 				<a class="gallery-facs" rel="prettyPhoto[gallery1]">
 					<xsl:attribute name="onclick">
 						<xsl:value-of select="concat('showFacs(',$apos,$n,$apos,',',$apos,$vFacs,$apos,',',$apos,$id,$apos,')')"/>
