@@ -1862,7 +1862,7 @@ witStart {
 
 listWit {
   display: block;
-  background-color: yellow;
+  background-color: #FFFFCC;
 }
 
 listWit > witness {
