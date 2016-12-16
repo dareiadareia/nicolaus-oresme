@@ -46,7 +46,6 @@
 }
 .-teibp-pb {
   display: inline;
-  width: 100%;
   text-align: right;
   color: gray;
   margin: 1em 0 1em 0;
@@ -1173,7 +1172,6 @@ pause {
 }
 pb {
   display: inline;
-  width: 100%;
   text-align: right;
   color: gray;
   margin: 1em 0 1em 0;
@@ -1181,13 +1179,13 @@ pb {
 }
 .pb {
   display: inline;
-  width: 100%;
   text-align: right;
   color: gray;
   margin: 1em 0 1em 0;
   font-size: 10pt;
 }
 pb:before {
+  display: inline;
   content: "page:\a0" attr(n);
 }
 pc {
