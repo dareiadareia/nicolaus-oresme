@@ -36,7 +36,7 @@
 	<xsl:param name="apos"><text>'</text></xsl:param>
 	
 	<!-- interface text -->
-	<xsl:param name="pbNote"><text>page: </text></xsl:param>
+	<xsl:param name="pbNote"><text></text></xsl:param>
 	<xsl:param name="altTextPbFacs"><text>view page image</text></xsl:param>
 	
 	<!-- parameters for file paths or URLs -->
