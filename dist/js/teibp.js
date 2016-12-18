@@ -3,10 +3,10 @@ function clearPageBreaks() {
     for (var e = document.querySelectorAll(".-teibp-pb"), t = 0; t < e.length; t++) e[t].style.display = "none"
 }
 
-/* function addPageBreaks() {
+ function addPageBreaks() {
     for (var e = document.querySelectorAll("pb"), t = 0; t < e.length; t++) e[t].style.display = "inline";
     for (var e = document.querySelectorAll(".-teibp-pb"), t = 0; t < e.length; t++) e[t].style.display = "inline"
-} */
+} 
 
 function init() {
     var e = document.getElementById("pbToggle");
