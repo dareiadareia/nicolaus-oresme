@@ -49,9 +49,9 @@
         <front>
             <div>
                 <listWit>
-                    <witness xml:id="wit-2197">Darmstadt, Universitäts- und Landesbibliothek (olim Hessische Landes- und Hochschulbibliothek), 2197, ff. 58r-92v; 125r-127v = D.</witness>
-                    <witness xml:id="wit-4375">München, Bayerische Staatsbibliothek, Clm 4375, 19r-46r = M.</witness>
-	                <witness xml:id="wit-753">Kraków, Uniwersytet Jagielloński, Biblioteka Jagiellońska, 753, ff. 51r-83v = C.</witness>
+                    <witness xml:id="wit-2197">Darmstadt, Universitäts- und Landesbibliothek (olim Hessische Landes- und Hochschulbibliothek), 2197, ff. 58r-92v; 125r-127v = D</witness>
+                    <witness xml:id="wit-4375">München, Bayerische Staatsbibliothek, Clm 4375, 19r-46r = M</witness>
+	                <witness xml:id="wit-753">Kraków, Uniwersytet Jagielloński, Biblioteka Jagiellońska, 753, ff. 51r-83v = C</witness>
                 </listWit>
             </div>
         </front>
