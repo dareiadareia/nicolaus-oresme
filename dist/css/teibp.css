@@ -265,6 +265,7 @@ att:before {
 }
 attDef {
   /* Empty Rule Set */
+  
 }
 attList {
   /* Empty Rule Set */
@@ -2015,4 +2016,8 @@ div.facsImage img:first-child {
   background-color: lightgray;
   text-indent: 1em;
   padding: 1em;
+}
+
+head > title {
+  font-style: italic;
 }
