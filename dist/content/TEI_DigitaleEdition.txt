@@ -59,7 +59,7 @@
         </front>
         <body>
 <head rend="align(center) case(allcaps)">
- <lb/>Nicolaus Oresme <lb/>Questiones in Meteorologica <lb/>of <lb/>redactio antiqua,
+ <lb/>Nicolaus Oresme <lb/>Questiones in Meteorologica, <lb/>redactio antiqua,
 <lb/>q. I.4 Utrum aliquis motus localis in istis inferioribus sit effective a celo<lb/>
 </head>
            <p>
