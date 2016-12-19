@@ -1103,14 +1103,6 @@ notesStmt {
 }
 
 
-notesStmt > note {
-  visibility: visible;
-  display: block;
-  margin: none;
-  padding: none;
-  background-color: none;
-}
-
 num {
   /* Empty Rule Set */
 }
