@@ -86,7 +86,7 @@ Et arguitur quod non, quia intelligentia est appropriata
 Secundo: omnis motus inferior, si est naturalis 
 
 <app>
-<lem wit="#p2197">et hic inferior</lem>
+<lem wit="#p2197">et hoc inferior</lem>
 <rdg wit="#p4375 #p753">om.</rdg>
 </app>
 , est a forma vel inclinatione mobilis, et non a celo vel intelligentia; et si est violentus semper oportet ponere aliquid violentans. Etiam: celum nichil agit contra naturam. 
