@@ -1086,7 +1086,7 @@ nationality {
 }
 node {
   display: none;
-}
+}f
 normalization {
   /* Empty Rule Set */
 }
@@ -1097,11 +1097,16 @@ a.hover {
 }
 
 notesStmt {
-  /* do we want to box each individual <note> if they're in a <notesStmt>? */
   display: block;
   font-style: italic;
   font-size: 10pt;
 }
+
+
+notesStmt > note {
+  visibility: visible;
+}
+
 num {
   /* Empty Rule Set */
 }
